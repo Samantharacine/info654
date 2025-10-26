@@ -1,12 +1,23 @@
 
 body {
-  background-color: lightblue;
-  margin left: 20px;
-  color: white
+  background-color: cream;
+  margin left: 100px;
+  color: pink
 }
 
 h1 {
   background-color: pink;
-  margin-left: 50px;
-  color: black 	
+  margin-left: 250px;
+  color: cream 	
+}
+
+h2{
+  background-color: purple;
+  margin-left: 250px;
+  color: cream 	
+}
+
+h3{  background-color: green;
+  margin-left: 250px;
+  color: cream 	
 }
