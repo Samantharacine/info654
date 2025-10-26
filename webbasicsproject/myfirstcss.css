@@ -1,27 +1,16 @@
-body {
+
+<style>
   font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
-	h1 {
-  color: #0055ff;
-  text-align: center;
-}
-a {
-  color: #ff6600;
-  text-decoration: none;
-}
-p {
-  color: blue;
-  font-size: 18px;
-}
-#main-title {
-  color: darkgreen;
-  font-size: 32px;
-  text-align: center;
-}
-.button:hover {
-  background-color: #0056b3;   /* darker blue when hovered */
-}
+  background-color: #fff8dc;
+  text color: #000000;
+  margin: 25px 50px 75px;
+  padding: 25px;
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<img src=images style=”max-width: 100%;height: auto;” >
+
+	h1 {color: #6495ed; text-align: center; font-size: 24px}
+	h2 {color: #6495ed; text-align: center; font-size: 24px}
+	p {color: #fff8dc; text-align: left; font-size: 12px}
+</style>
+
