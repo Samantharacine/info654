@@ -1,6 +1,6 @@
 
 body {
-  background-color: cream;
+  background-color: black;
   margin: 25px 50px 75px 100px;
   color: pink
 }
@@ -8,16 +8,16 @@ body {
 h1 {
   background-color: pink;
  margin: 25px 50px 75px 100px;
-  color: cream 	
+  color: black 	
 }
 
 h2{
   background-color: purple;
   margin: 25px 50px 75px 100px;
-  color: cream 	
+  color: black 	
 }
 
 h3{  background-color: green;
   margin: 25px 50px 75px 100px;
-  color: cream 	
+  color: black 	
 }
